@@ -8,9 +8,9 @@ Jquery, 2006 yılında John Resig tarafından geliştirilmeye başlanmış ve so
 JQuery kütüphanesi iki farklı yöntem ile kullanılabilir.
 Kütüphaneyi indirip proje klasörüne ekleyebilir ve aşağıdaki kod satırını html sayfasının head etiketleri arasına ekleyerek kullanılabilir.
 
-`
+´
 <script src="jquery.js"></script>
-`
+´
 
 
 İkinci yöntem jQuery kütüphanesini indirmeye gerek kalmadan direkt CDN ile projenize entegre etmektir.
